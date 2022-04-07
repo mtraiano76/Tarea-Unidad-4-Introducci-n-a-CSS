@@ -15,7 +15,8 @@ p{
     margin: 2%;
 }
 ul{
-  color: crimson
+  color: crimson;
+  font-weight: bold;
 }
 
 
