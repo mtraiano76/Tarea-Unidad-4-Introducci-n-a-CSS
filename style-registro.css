@@ -1,42 +1,13 @@
+
+*{
+  box-sizing: border-box;
+  
+}
 body{
-    font-family: 'Roboto', sans-serif;
-    background-color: lightsteelblue;
-    background: radial-gradient(lightsteelblue, #3f87a6);
-}
-header{
-    width: 50%;
-}
-h1{
-    font-size: 25px;
-    color: aliceblue;
-}
-p{
-    font-size: 20px;
-    color: #000;
-    margin: 2%;
-}
-ul{
-  color: white;
-  font-weight:lighter
+  background-color: lightsteelblue;
+  background: radial-gradient(lightsteelblue, #3f87a6);
 }
 
-
-footer{
-    background-color: lightslategray;
-    color: azure;
-    margin: 1px;
-    padding: 5px
-}
-div.registro{
-
-    display: inline-block;
-    width: 40%;
-    height: 400px;
-    min-height: 100px;
-    float:right;
-    margin-top: -765px;
-    margin-right: 5%;
-}
 .form-register{
   width: 400px;
   background: #24303c;
@@ -53,7 +24,6 @@ div.registro{
   font-size: 22px;
   margin-bottom: 20px;
 }
-
 .controls {
   width: 100%;
   background: #24303c;
@@ -65,24 +35,20 @@ div.registro{
   font-size: 18px;
   color: white;
 }
-
 .form-register p {
   height: 40px;
   text-align: center;
   font-size: 18px;
   line-height: 40px;
 }
-
 .form-register a {
   color: white;
   text-decoration: none;
 }
-
 .form-register a:hover {
   color: white;
   text-decoration: underline;
 }
-
 .form-register .botons {
   width: 100%;
   background: #1f53c5;
@@ -93,5 +59,3 @@ div.registro{
   font-size: 16px;
 
 }
-
-
